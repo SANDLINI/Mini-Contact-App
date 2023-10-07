@@ -1,0 +1,16 @@
+.navBox {
+    width: 100%;
+    text-align: center;
+    background-color: rgb(127, 184, 234);
+}
+
+.NavLink {
+    text-decoration: none;
+    font-size: 25px;
+    padding: 10px;
+    color: white;
+}
+
+.NavLink:hover{
+    color: red;
+}
